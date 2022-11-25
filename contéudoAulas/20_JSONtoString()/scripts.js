@@ -14,4 +14,5 @@ console.log(converterJson);
 let jsonParaString = JSON.parse(converterJson);
 
 console.log(jsonParaString);
+console.log(converterJson[2]);
 
