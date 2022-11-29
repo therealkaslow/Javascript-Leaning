@@ -21,6 +21,6 @@ const calculadora = {
     }
 }
 console.log(calculadora.somar(10,10));
-console.log(calculadora.subtrair(15,5));
+console.log(calculadora.subtrair(15,5)); 
 console.log(calculadora.multiplicar(5,5));
 console.log(calculadora.dividir(2,2))
